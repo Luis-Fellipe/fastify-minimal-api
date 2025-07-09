@@ -18,7 +18,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+cd fastify-minimal-api
 
 # 2. Instale as dependências
 npm install
